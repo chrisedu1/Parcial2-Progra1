@@ -1,0 +1,10 @@
+C:\Users\CHRIS\Desktop\parcial2-progra1\Serie3-Parcial2-Progra1\Serie3-Parcial2-Progra1\bin\Debug\Serie3-Parcial2-Progra1.exe.config
+C:\Users\CHRIS\Desktop\parcial2-progra1\Serie3-Parcial2-Progra1\Serie3-Parcial2-Progra1\bin\Debug\Serie3-Parcial2-Progra1.exe
+C:\Users\CHRIS\Desktop\parcial2-progra1\Serie3-Parcial2-Progra1\Serie3-Parcial2-Progra1\bin\Debug\Serie3-Parcial2-Progra1.pdb
+C:\Users\CHRIS\Desktop\parcial2-progra1\Serie3-Parcial2-Progra1\Serie3-Parcial2-Progra1\obj\Debug\Serie3-Parcial2-Progra1.csproj.AssemblyReference.cache
+C:\Users\CHRIS\Desktop\parcial2-progra1\Serie3-Parcial2-Progra1\Serie3-Parcial2-Progra1\obj\Debug\Serie3_Parcial2_Progra1.Form1.resources
+C:\Users\CHRIS\Desktop\parcial2-progra1\Serie3-Parcial2-Progra1\Serie3-Parcial2-Progra1\obj\Debug\Serie3_Parcial2_Progra1.Properties.Resources.resources
+C:\Users\CHRIS\Desktop\parcial2-progra1\Serie3-Parcial2-Progra1\Serie3-Parcial2-Progra1\obj\Debug\Serie3-Parcial2-Progra1.csproj.GenerateResource.cache
+C:\Users\CHRIS\Desktop\parcial2-progra1\Serie3-Parcial2-Progra1\Serie3-Parcial2-Progra1\obj\Debug\Serie3-Parcial2-Progra1.csproj.CoreCompileInputs.cache
+C:\Users\CHRIS\Desktop\parcial2-progra1\Serie3-Parcial2-Progra1\Serie3-Parcial2-Progra1\obj\Debug\Serie3-Parcial2-Progra1.exe
+C:\Users\CHRIS\Desktop\parcial2-progra1\Serie3-Parcial2-Progra1\Serie3-Parcial2-Progra1\obj\Debug\Serie3-Parcial2-Progra1.pdb

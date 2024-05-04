@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Serie2-ControlEmpleados/1.0.0": {
+        "runtime": {
+          "Serie2-ControlEmpleados.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Serie2-ControlEmpleados/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

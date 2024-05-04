@@ -1,0 +1,14 @@
+C:\Users\CHRIS\Desktop\parcial2-progra1\Serie2-ControlEmpleados\Serie2-ControlEmpleados\obj\Debug\net8.0\Serie2-ControlEmpleados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CHRIS\Desktop\parcial2-progra1\Serie2-ControlEmpleados\Serie2-ControlEmpleados\obj\Debug\net8.0\Serie2-ControlEmpleados.AssemblyInfoInputs.cache
+C:\Users\CHRIS\Desktop\parcial2-progra1\Serie2-ControlEmpleados\Serie2-ControlEmpleados\obj\Debug\net8.0\Serie2-ControlEmpleados.AssemblyInfo.cs
+C:\Users\CHRIS\Desktop\parcial2-progra1\Serie2-ControlEmpleados\Serie2-ControlEmpleados\obj\Debug\net8.0\Serie2-ControlEmpleados.csproj.CoreCompileInputs.cache
+C:\Users\CHRIS\Desktop\parcial2-progra1\Serie2-ControlEmpleados\Serie2-ControlEmpleados\bin\Debug\net8.0\Serie2-ControlEmpleados.exe
+C:\Users\CHRIS\Desktop\parcial2-progra1\Serie2-ControlEmpleados\Serie2-ControlEmpleados\bin\Debug\net8.0\Serie2-ControlEmpleados.deps.json
+C:\Users\CHRIS\Desktop\parcial2-progra1\Serie2-ControlEmpleados\Serie2-ControlEmpleados\bin\Debug\net8.0\Serie2-ControlEmpleados.runtimeconfig.json
+C:\Users\CHRIS\Desktop\parcial2-progra1\Serie2-ControlEmpleados\Serie2-ControlEmpleados\bin\Debug\net8.0\Serie2-ControlEmpleados.dll
+C:\Users\CHRIS\Desktop\parcial2-progra1\Serie2-ControlEmpleados\Serie2-ControlEmpleados\bin\Debug\net8.0\Serie2-ControlEmpleados.pdb
+C:\Users\CHRIS\Desktop\parcial2-progra1\Serie2-ControlEmpleados\Serie2-ControlEmpleados\obj\Debug\net8.0\Serie2-ControlEmpleados.dll
+C:\Users\CHRIS\Desktop\parcial2-progra1\Serie2-ControlEmpleados\Serie2-ControlEmpleados\obj\Debug\net8.0\refint\Serie2-ControlEmpleados.dll
+C:\Users\CHRIS\Desktop\parcial2-progra1\Serie2-ControlEmpleados\Serie2-ControlEmpleados\obj\Debug\net8.0\Serie2-ControlEmpleados.pdb
+C:\Users\CHRIS\Desktop\parcial2-progra1\Serie2-ControlEmpleados\Serie2-ControlEmpleados\obj\Debug\net8.0\Serie2-ControlEmpleados.genruntimeconfig.cache
+C:\Users\CHRIS\Desktop\parcial2-progra1\Serie2-ControlEmpleados\Serie2-ControlEmpleados\obj\Debug\net8.0\ref\Serie2-ControlEmpleados.dll
